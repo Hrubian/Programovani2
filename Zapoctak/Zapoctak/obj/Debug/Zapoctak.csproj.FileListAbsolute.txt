@@ -1,0 +1,14 @@
+C:\Users\johny\source\repos\Zapoctak\Zapoctak\bin\Debug\Zapoctak.exe.config
+C:\Users\johny\source\repos\Zapoctak\Zapoctak\bin\Debug\Zapoctak.exe
+C:\Users\johny\source\repos\Zapoctak\Zapoctak\bin\Debug\Zapoctak.pdb
+C:\Users\johny\source\repos\Zapoctak\Zapoctak\obj\Debug\Zapoctak.Form1.resources
+C:\Users\johny\source\repos\Zapoctak\Zapoctak\obj\Debug\Zapoctak.main_window.resources
+C:\Users\johny\source\repos\Zapoctak\Zapoctak\obj\Debug\Zapoctak.Properties.Resources.resources
+C:\Users\johny\source\repos\Zapoctak\Zapoctak\obj\Debug\Zapoctak.csproj.GenerateResource.cache
+C:\Users\johny\source\repos\Zapoctak\Zapoctak\obj\Debug\Zapoctak.csproj.CoreCompileInputs.cache
+C:\Users\johny\source\repos\Zapoctak\Zapoctak\obj\Debug\Zapoctak.exe
+C:\Users\johny\source\repos\Zapoctak\Zapoctak\obj\Debug\Zapoctak.pdb
+C:\Users\johny\source\repos\Zapoctak\Zapoctak\obj\Debug\Zapoctak.csprojAssemblyReference.cache
+C:\Users\johny\source\repos\Zapoctak\Zapoctak\obj\Debug\Zapoctak.NewVertex.resources
+C:\Users\johny\source\repos\Zapoctak\Zapoctak\obj\Debug\Zapoctak.NewEdge.resources
+C:\Users\johny\source\repos\Zapoctak\Zapoctak\obj\Debug\Zapoctak.Settings.resources
